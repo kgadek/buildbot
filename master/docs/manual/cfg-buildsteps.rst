@@ -372,7 +372,7 @@ The Git step takes the following arguments:
   Specifies whether to clean the build tree or not.
 
     ``incremental``
-      The source is update, but any built files are left untouched.
+      The source is updated, but any built files are left untouched.
 
     ``full``
       The build tree is clean of any built files.
